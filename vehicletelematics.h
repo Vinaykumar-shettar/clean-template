@@ -8,7 +8,7 @@ typedef struct{
 int vehicle_id;
 vehicle_param param_id;
 float param_val;
-}vehicle_param;
+}vehicle_info;
 
 tpedef struct
 {
